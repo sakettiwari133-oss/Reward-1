@@ -1,0 +1,16 @@
+{
+  "name": "cashback-pro",
+  "version": "1.0.0",
+  "description": "CashBack Pro PWA — Submit coupons, earn cashback",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate-icons": "node generate-icons.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["cashback", "pwa", "coupons"],
+  "author": "CashBack Pro",
+  "license": "MIT"
+}

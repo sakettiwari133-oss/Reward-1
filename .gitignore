@@ -1,0 +1,4 @@
+cashback-data.json
+node_modules/
+*.log
+.env
